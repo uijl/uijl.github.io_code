@@ -1,0 +1,9831 @@
+{
+    "S1314 - 000": {
+        "Minute": [
+            64,
+            55,
+            36
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 001": {
+        "Minute": [
+            29,
+            24,
+            69,
+            67
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 002": {
+        "Minute": [
+            81,
+            76,
+            66,
+            63,
+            85,
+            78,
+            52
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 003": {
+        "Minute": [
+            48
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 004": {
+        "Minute": [
+            81,
+            77,
+            75,
+            72,
+            43,
+            42,
+            40
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 005": {
+        "Minute": [
+            45,
+            54
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 006": {
+        "Minute": [
+            30
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 007": {
+        "Minute": [
+            79,
+            75,
+            64,
+            63,
+            59
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 008": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 009": {
+        "Minute": [
+            21,
+            12,
+            452
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 010": {
+        "Minute": [
+            48,
+            903
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 011": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 012": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 013": {
+        "Minute": [
+            42
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 014": {
+        "Minute": [
+            902,
+            89,
+            68,
+            62,
+            61,
+            21,
+            78,
+            48
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 015": {
+        "Minute": [
+            11,
+            74,
+            57,
+            47
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 016": {
+        "Minute": [
+            903,
+            87,
+            65
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 017": {
+        "Minute": [
+            903,
+            76
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 018": {
+        "Minute": [
+            84,
+            31,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 019": {
+        "Minute": [
+            82
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 020": {
+        "Minute": [
+            86,
+            66,
+            61,
+            41
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 021": {
+        "Minute": [
+            35,
+            28,
+            64
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 022": {
+        "Minute": [
+            86,
+            65,
+            52,
+            47,
+            14
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 023": {
+        "Minute": [
+            78,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 024": {
+        "Minute": [
+            116
+        ],
+        "Period": [
+            "Extra time - Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 025": {
+        "Minute": [
+            27,
+            84,
+            12,
+            7
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 026": {
+        "Minute": [
+            79,
+            25,
+            86
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 027": {
+        "Minute": [
+            451,
+            72,
+            23
+        ],
+        "Period": [
+            "First half - Additional time",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 028": {
+        "Minute": [
+            70,
+            16
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 029": {
+        "Minute": [
+            78
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 030": {
+        "Minute": [
+            45,
+            30,
+            5
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 031": {
+        "Minute": [
+            902,
+            38,
+            26
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 032": {
+        "Minute": [
+            78,
+            12,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 033": {
+        "Minute": [
+            47,
+            28
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 034": {
+        "Minute": [
+            53
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 035": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 036": {
+        "Minute": [
+            90,
+            79,
+            8
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 037": {
+        "Minute": [
+            25
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 038": {
+        "Minute": [
+            902,
+            77,
+            51,
+            2
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 039": {
+        "Minute": [
+            80,
+            64
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 040": {
+        "Minute": [
+            39
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 041": {
+        "Minute": [
+            49
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 042": {
+        "Minute": [
+            72,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 043": {
+        "Minute": [
+            75,
+            61
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 044": {
+        "Minute": [
+            89
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 045": {
+        "Minute": [
+            64
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 046": {
+        "Minute": [
+            29,
+            68
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 047": {
+        "Minute": [
+            21,
+            64
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 048": {
+        "Minute": [
+            65,
+            54,
+            49
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 049": {
+        "Minute": [
+            68,
+            905
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 050": {
+        "Minute": [
+            76
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 051": {
+        "Minute": [
+            55,
+            37,
+            34,
+            32,
+            21,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 052": {
+        "Minute": [
+            6,
+            48
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 053": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 054": {
+        "Minute": [
+            29,
+            20,
+            9,
+            67,
+            38
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 055": {
+        "Minute": [
+            34,
+            17,
+            8,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 056": {
+        "Minute": [
+            88
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 057": {
+        "Minute": [
+            82
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 058": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 059": {
+        "Minute": [
+            903,
+            68,
+            62,
+            50,
+            26
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 060": {
+        "Minute": [
+            72,
+            83
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 061": {
+        "Minute": [
+            61,
+            27,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 062": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 063": {
+        "Minute": [
+            82,
+            71,
+            62,
+            58,
+            44,
+            20,
+            69,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 064": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 065": {
+        "Minute": [
+            90,
+            73,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 066": {
+        "Minute": [
+            77,
+            12
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 067": {
+        "Minute": [
+            50,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 068": {
+        "Minute": [
+            85,
+            58,
+            90,
+            60,
+            27
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 069": {
+        "Minute": [
+            60,
+            15
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 070": {
+        "Minute": [
+            89,
+            58,
+            8,
+            66
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 071": {
+        "Minute": [
+            75,
+            68
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 072": {
+        "Minute": [
+            50,
+            23,
+            84,
+            64,
+            59,
+            12
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 073": {
+        "Minute": [
+            34,
+            53
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 074": {
+        "Minute": [
+            32,
+            73
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 075": {
+        "Minute": [
+            77,
+            64,
+            51
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 076": {
+        "Minute": [
+            82,
+            5,
+            70,
+            43,
+            33
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 077": {
+        "Minute": [
+            79,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 078": {
+        "Minute": [
+            904,
+            27,
+            9,
+            7
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 079": {
+        "Minute": [
+            79,
+            53,
+            90,
+            67,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 080": {
+        "Minute": [
+            72,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 081": {
+        "Minute": [
+            78,
+            66,
+            48,
+            29,
+            83,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 082": {
+        "Minute": [
+            77,
+            55,
+            9
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 083": {
+        "Minute": [
+            3
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 084": {
+        "Minute": [
+            902,
+            48,
+            451
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 085": {
+        "Minute": [
+            901,
+            67
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 086": {
+        "Minute": [
+            64,
+            55,
+            36
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 087": {
+        "Minute": [
+            29,
+            24,
+            69,
+            67
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 088": {
+        "Minute": [
+            903,
+            85,
+            72,
+            38,
+            3,
+            66
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 089": {
+        "Minute": [
+            2
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 090": {
+        "Minute": [
+            81,
+            76,
+            66,
+            63,
+            85,
+            78,
+            52
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 091": {
+        "Minute": [
+            48
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 092": {
+        "Minute": [
+            81,
+            77,
+            75,
+            72,
+            43,
+            42,
+            40
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 093": {
+        "Minute": [
+            45,
+            54
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 094": {
+        "Minute": [
+            30
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 095": {
+        "Minute": [
+            79,
+            75,
+            64,
+            63,
+            59
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 096": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 097": {
+        "Minute": [
+            21,
+            12,
+            452
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 098": {
+        "Minute": [
+            82
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 099": {
+        "Minute": [
+            86,
+            66,
+            61,
+            41
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 100": {
+        "Minute": [
+            35,
+            28,
+            64
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 101": {
+        "Minute": [
+            86,
+            65,
+            52,
+            47,
+            14
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 102": {
+        "Minute": [
+            78,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 103": {
+        "Minute": [
+            116
+        ],
+        "Period": [
+            "Extra time - Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 104": {
+        "Minute": [
+            27,
+            84,
+            12,
+            7
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 105": {
+        "Minute": [
+            79,
+            25,
+            86
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 106": {
+        "Minute": [
+            70,
+            16
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 107": {
+        "Minute": [
+            78
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 108": {
+        "Minute": [
+            451,
+            72,
+            23
+        ],
+        "Period": [
+            "First half - Additional time",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 109": {
+        "Minute": [
+            45,
+            30,
+            5
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 110": {
+        "Minute": [
+            902,
+            38,
+            26
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 111": {
+        "Minute": [
+            90,
+            79,
+            8
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 112": {
+        "Minute": [
+            25
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 113": {
+        "Minute": [
+            902,
+            77,
+            51,
+            2
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 114": {
+        "Minute": [
+            80,
+            64
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 115": {
+        "Minute": [
+            39
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 116": {
+        "Minute": [
+            49
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 117": {
+        "Minute": [
+            72,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 118": {
+        "Minute": [
+            75,
+            61
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 119": {
+        "Minute": [
+            89
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 120": {
+        "Minute": [
+            64
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 121": {
+        "Minute": [
+            55,
+            37,
+            34,
+            32,
+            21,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 122": {
+        "Minute": [
+            6,
+            48
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 123": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 124": {
+        "Minute": [
+            29,
+            20,
+            9,
+            67,
+            38
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 125": {
+        "Minute": [
+            34,
+            17,
+            8,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 126": {
+        "Minute": [
+            88
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 127": {
+        "Minute": [
+            82
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 128": {
+        "Minute": [
+            77,
+            12
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 129": {
+        "Minute": [
+            50,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 130": {
+        "Minute": [
+            85,
+            58,
+            90,
+            60,
+            27
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 131": {
+        "Minute": [
+            60,
+            15
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 132": {
+        "Minute": [
+            89,
+            58,
+            8,
+            66
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 133": {
+        "Minute": [
+            82,
+            5,
+            70,
+            43,
+            33
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 134": {
+        "Minute": [
+            79,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 135": {
+        "Minute": [
+            904,
+            27,
+            9,
+            7
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 136": {
+        "Minute": [
+            79,
+            53,
+            90,
+            67,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 137": {
+        "Minute": [
+            72,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 138": {
+        "Minute": [
+            90,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 139": {
+        "Minute": [
+            88,
+            42,
+            39,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 140": {
+        "Minute": [
+            55,
+            57
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 141": {
+        "Minute": [
+            85,
+            71,
+            40,
+            3,
+            27
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 142": {
+        "Minute": [
+            71,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 143": {
+        "Minute": [
+            58,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 144": {
+        "Minute": [
+            87,
+            32
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 145": {
+        "Minute": [
+            37,
+            24
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 146": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 147": {
+        "Minute": [
+            90,
+            34,
+            20,
+            16
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 148": {
+        "Minute": [
+            120,
+            118,
+            110,
+            903,
+            36
+        ],
+        "Period": [
+            "Extra time - Second half",
+            "Extra time - Second half",
+            "Extra time - Second half",
+            "Second half - Additional time",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 149": {
+        "Minute": [
+            79,
+            70,
+            59,
+            22,
+            88,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 150": {
+        "Minute": [
+            87,
+            65
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 151": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 152": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 153": {
+        "Minute": [
+            67
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 154": {
+        "Minute": [
+            49
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 155": {
+        "Minute": [
+            84,
+            901,
+            81,
+            66,
+            63,
+            54,
+            33
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 156": {
+        "Minute": [
+            14,
+            54
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 157": {
+        "Minute": [
+            65,
+            42,
+            60,
+            52
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 158": {
+        "Minute": [
+            6
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 159": {
+        "Minute": [
+            48,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 160": {
+        "Minute": [
+            30,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 161": {
+        "Minute": [
+            25,
+            86,
+            73,
+            68,
+            19
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 162": {
+        "Minute": [
+            70,
+            68
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 163": {
+        "Minute": [
+            13
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 164": {
+        "Minute": [
+            58,
+            45,
+            37
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 165": {
+        "Minute": [
+            905,
+            58,
+            33,
+            39
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 166": {
+        "Minute": [
+            68,
+            41,
+            4
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 167": {
+        "Minute": [
+            58,
+            53,
+            48
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 168": {
+        "Minute": [
+            902,
+            51,
+            30,
+            20,
+            3,
+            71,
+            451
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 169": {
+        "Minute": [
+            65
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 170": {
+        "Minute": [
+            12,
+            5,
+            62,
+            59,
+            28
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 171": {
+        "Minute": [
+            90,
+            76,
+            65
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 172": {
+        "Minute": [
+            54
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 173": {
+        "Minute": [
+            44,
+            90,
+            55,
+            20
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 174": {
+        "Minute": [
+            88,
+            48
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 175": {
+        "Minute": [
+            87,
+            69,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 176": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 177": {
+        "Minute": [
+            87
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 178": {
+        "Minute": [
+            79,
+            52,
+            19
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 179": {
+        "Minute": [
+            15,
+            8
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 180": {
+        "Minute": [
+            41,
+            82,
+            16
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 181": {
+        "Minute": [
+            86,
+            67,
+            42
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 182": {
+        "Minute": [
+            65,
+            1
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 183": {
+        "Minute": [
+            78,
+            60,
+            10,
+            71
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 184": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 185": {
+        "Minute": [
+            16,
+            86,
+            58
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 186": {
+        "Minute": [
+            86
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 187": {
+        "Minute": [
+            53,
+            20,
+            8
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 188": {
+        "Minute": [
+            74,
+            53
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 189": {
+        "Minute": [
+            48,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 190": {
+        "Minute": [
+            90,
+            904
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 191": {
+        "Minute": [
+            76
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 192": {
+        "Minute": [
+            53,
+            43,
+            904
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 193": {
+        "Minute": [
+            9,
+            23
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 194": {
+        "Minute": [
+            60,
+            49,
+            13
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 195": {
+        "Minute": [
+            42,
+            19,
+            49
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 196": {
+        "Minute": [
+            48,
+            903
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 197": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 198": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 199": {
+        "Minute": [
+            42
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 200": {
+        "Minute": [
+            902,
+            89,
+            68,
+            62,
+            61,
+            21,
+            78,
+            48
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 201": {
+        "Minute": [
+            11,
+            74,
+            57,
+            47
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 202": {
+        "Minute": [
+            903,
+            87,
+            65
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 203": {
+        "Minute": [
+            903,
+            76
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 204": {
+        "Minute": [
+            84,
+            31,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 205": {
+        "Minute": [
+            78,
+            12,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 206": {
+        "Minute": [
+            47,
+            28
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 207": {
+        "Minute": [
+            53
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 208": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 209": {
+        "Minute": [
+            29,
+            68
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 210": {
+        "Minute": [
+            21,
+            64
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 211": {
+        "Minute": [
+            65,
+            54,
+            49
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 212": {
+        "Minute": [
+            68,
+            905
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 213": {
+        "Minute": [
+            76
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 214": {
+        "Minute": [
+            903,
+            68,
+            62,
+            50,
+            26
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 215": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 216": {
+        "Minute": [
+            61,
+            27,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 217": {
+        "Minute": [
+            72,
+            83
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 218": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 219": {
+        "Minute": [
+            82,
+            71,
+            62,
+            58,
+            44,
+            20,
+            69,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 220": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 221": {
+        "Minute": [
+            90,
+            73,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 222": {
+        "Minute": [
+            75,
+            68
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 223": {
+        "Minute": [
+            50,
+            23,
+            84,
+            64,
+            59,
+            12
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 224": {
+        "Minute": [
+            34,
+            53
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 225": {
+        "Minute": [
+            32,
+            73
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 226": {
+        "Minute": [
+            77,
+            64,
+            51
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 227": {
+        "Minute": [
+            78,
+            66,
+            48,
+            29,
+            83,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 228": {
+        "Minute": [
+            77,
+            55,
+            9
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 229": {
+        "Minute": [
+            3
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 230": {
+        "Minute": [
+            902,
+            48,
+            451
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 231": {
+        "Minute": [
+            901,
+            67
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 232": {
+        "Minute": [
+            88,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 233": {
+        "Minute": [
+            83
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 234": {
+        "Minute": [
+            901,
+            67,
+            89
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 235": {
+        "Minute": [
+            53,
+            13,
+            6
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 236": {
+        "Minute": [
+            57,
+            27,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 237": {
+        "Minute": [
+            903,
+            4,
+            61,
+            27
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 238": {
+        "Minute": [
+            76,
+            68,
+            59,
+            57
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 239": {
+        "Minute": [
+            5
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 240": {
+        "Minute": [
+            19
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 241": {
+        "Minute": [
+            36,
+            72,
+            60,
+            44
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 242": {
+        "Minute": [
+            76,
+            18
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 243": {
+        "Minute": [
+            902,
+            451,
+            51
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 244": {
+        "Minute": [
+            72,
+            57,
+            50,
+            22
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 245": {
+        "Minute": [
+            2
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 246": {
+        "Minute": [
+            30,
+            88,
+            77,
+            66,
+            22
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 247": {
+        "Minute": [
+            87,
+            68,
+            48,
+            37
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 248": {
+        "Minute": [
+            87,
+            78,
+            88,
+            36
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 249": {
+        "Minute": [
+            901,
+            71,
+            65,
+            21
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 250": {
+        "Minute": [
+            29,
+            4,
+            22
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 251": {
+        "Minute": [
+            451,
+            38,
+            10,
+            88
+        ],
+        "Period": [
+            "First half - Additional time",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 252": {
+        "Minute": [
+            81,
+            63,
+            51,
+            37,
+            38
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 253": {
+        "Minute": [
+            63,
+            61,
+            29,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 254": {
+        "Minute": [
+            85
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 255": {
+        "Minute": [
+            30,
+            25,
+            5
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 256": {
+        "Minute": [
+            72,
+            56,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 257": {
+        "Minute": [
+            62,
+            52,
+            36,
+            22,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 258": {
+        "Minute": [
+            83,
+            29
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 259": {
+        "Minute": [
+            77,
+            52,
+            18,
+            90,
+            34
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 260": {
+        "Minute": [
+            90,
+            7,
+            80
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 261": {
+        "Minute": [
+            29,
+            19,
+            901,
+            78,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half - Additional time",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 262": {
+        "Minute": [
+            79,
+            59,
+            56,
+            7
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 263": {
+        "Minute": [
+            32,
+            42,
+            34
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 264": {
+        "Minute": [
+            901,
+            64,
+            61,
+            37,
+            25
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 265": {
+        "Minute": [
+            62,
+            65,
+            56,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 266": {
+        "Minute": [
+            89,
+            78,
+            65,
+            33,
+            69,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 267": {
+        "Minute": [
+            85,
+            78,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 268": {
+        "Minute": [
+            45,
+            81,
+            71
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 269": {
+        "Minute": [
+            901,
+            17
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 270": {
+        "Minute": [
+            83,
+            54,
+            31
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 271": {
+        "Minute": [
+            57,
+            51
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 272": {
+        "Minute": [
+            10
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 273": {
+        "Minute": [
+            903,
+            83,
+            65
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 274": {
+        "Minute": [
+            87,
+            67,
+            29
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 275": {
+        "Minute": [
+            62
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 276": {
+        "Minute": [
+            75,
+            24,
+            22,
+            64,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 277": {
+        "Minute": [
+            14,
+            87,
+            4
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 278": {
+        "Minute": [
+            903,
+            73
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 279": {
+        "Minute": [
+            55
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 280": {
+        "Minute": [
+            80,
+            64,
+            40,
+            58
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 281": {
+        "Minute": [
+            28,
+            23
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 282": {
+        "Minute": [
+            82,
+            45,
+            25,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 283": {
+        "Minute": [
+            903,
+            51,
+            48,
+            44,
+            35
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 284": {
+        "Minute": [
+            37,
+            14
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 285": {
+        "Minute": [
+            86,
+            82
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 286": {
+        "Minute": [
+            75,
+            69,
+            55,
+            22
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 287": {
+        "Minute": [
+            51
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 288": {
+        "Minute": [
+            83,
+            45,
+            40,
+            30
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 289": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 290": {
+        "Minute": [
+            72,
+            58,
+            48,
+            44,
+            40,
+            7,
+            88
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 291": {
+        "Minute": [
+            64,
+            55,
+            36
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 292": {
+        "Minute": [
+            29,
+            24,
+            69,
+            67
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 293": {
+        "Minute": [
+            903,
+            85,
+            72,
+            38,
+            3,
+            66
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 294": {
+        "Minute": [
+            2
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 295": {
+        "Minute": [
+            81,
+            76,
+            66,
+            63,
+            85,
+            78,
+            52
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 296": {
+        "Minute": [
+            48
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 297": {
+        "Minute": [
+            81,
+            77,
+            75,
+            72,
+            43,
+            42,
+            40
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 298": {
+        "Minute": [
+            45,
+            54
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 299": {
+        "Minute": [
+            30
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 300": {
+        "Minute": [
+            79,
+            75,
+            64,
+            63,
+            59
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 301": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 302": {
+        "Minute": [
+            21,
+            12,
+            452
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 303": {
+        "Minute": [
+            82
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 304": {
+        "Minute": [
+            86,
+            66,
+            61,
+            41
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 305": {
+        "Minute": [
+            35,
+            28,
+            64
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 306": {
+        "Minute": [
+            86,
+            65,
+            52,
+            47,
+            14
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 307": {
+        "Minute": [
+            78,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 308": {
+        "Minute": [
+            116
+        ],
+        "Period": [
+            "Extra time - Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 309": {
+        "Minute": [
+            27,
+            84,
+            12,
+            7
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 310": {
+        "Minute": [
+            79,
+            25,
+            86
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 311": {
+        "Minute": [
+            70,
+            16
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 312": {
+        "Minute": [
+            78
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 313": {
+        "Minute": [
+            451,
+            72,
+            23
+        ],
+        "Period": [
+            "First half - Additional time",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 314": {
+        "Minute": [
+            45,
+            30,
+            5
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 315": {
+        "Minute": [
+            902,
+            38,
+            26
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 316": {
+        "Minute": [
+            90,
+            79,
+            8
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 317": {
+        "Minute": [
+            25
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 318": {
+        "Minute": [
+            902,
+            77,
+            51,
+            2
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 319": {
+        "Minute": [
+            80,
+            64
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 320": {
+        "Minute": [
+            39
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 321": {
+        "Minute": [
+            49
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 322": {
+        "Minute": [
+            72,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 323": {
+        "Minute": [
+            75,
+            61
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 324": {
+        "Minute": [
+            89
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 325": {
+        "Minute": [
+            64
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 326": {
+        "Minute": [
+            55,
+            37,
+            34,
+            32,
+            21,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 327": {
+        "Minute": [
+            6,
+            48
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 328": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 329": {
+        "Minute": [
+            29,
+            20,
+            9,
+            67,
+            38
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 330": {
+        "Minute": [
+            34,
+            17,
+            8,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 331": {
+        "Minute": [
+            88
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 332": {
+        "Minute": [
+            82
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 333": {
+        "Minute": [
+            77,
+            12
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 334": {
+        "Minute": [
+            50,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 335": {
+        "Minute": [
+            85,
+            58,
+            90,
+            60,
+            27
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 336": {
+        "Minute": [
+            60,
+            15
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 337": {
+        "Minute": [
+            89,
+            58,
+            8,
+            66
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 338": {
+        "Minute": [
+            82,
+            5,
+            70,
+            43,
+            33
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 339": {
+        "Minute": [
+            79,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 340": {
+        "Minute": [
+            904,
+            27,
+            9,
+            7
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 341": {
+        "Minute": [
+            79,
+            53,
+            90,
+            67,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 342": {
+        "Minute": [
+            72,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 343": {
+        "Minute": [
+            90,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 344": {
+        "Minute": [
+            88,
+            42,
+            39,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 345": {
+        "Minute": [
+            55,
+            57
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 346": {
+        "Minute": [
+            85,
+            71,
+            40,
+            3,
+            27
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 347": {
+        "Minute": [
+            71,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 348": {
+        "Minute": [
+            58,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 349": {
+        "Minute": [
+            87,
+            32
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 350": {
+        "Minute": [
+            37,
+            24
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 351": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 352": {
+        "Minute": [
+            90,
+            34,
+            20,
+            16
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 353": {
+        "Minute": [
+            120,
+            118,
+            110,
+            903,
+            36
+        ],
+        "Period": [
+            "Extra time - Second half",
+            "Extra time - Second half",
+            "Extra time - Second half",
+            "Second half - Additional time",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 354": {
+        "Minute": [
+            79,
+            70,
+            59,
+            22,
+            88,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 355": {
+        "Minute": [
+            87,
+            65
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 356": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 357": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 358": {
+        "Minute": [
+            67
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 359": {
+        "Minute": [
+            49
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 360": {
+        "Minute": [
+            84,
+            901,
+            81,
+            66,
+            63,
+            54,
+            33
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 361": {
+        "Minute": [
+            14,
+            54
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 362": {
+        "Minute": [
+            65,
+            42,
+            60,
+            52
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 363": {
+        "Minute": [
+            6
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 364": {
+        "Minute": [
+            48,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 365": {
+        "Minute": [
+            30,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 366": {
+        "Minute": [
+            25,
+            86,
+            73,
+            68,
+            19
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 367": {
+        "Minute": [
+            70,
+            68
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 368": {
+        "Minute": [
+            13
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 369": {
+        "Minute": [
+            58,
+            45,
+            37
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 370": {
+        "Minute": [
+            905,
+            58,
+            33,
+            39
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 371": {
+        "Minute": [
+            68,
+            41,
+            4
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 372": {
+        "Minute": [
+            58,
+            53,
+            48
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 373": {
+        "Minute": [
+            902,
+            51,
+            30,
+            20,
+            3,
+            71,
+            451
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 374": {
+        "Minute": [
+            65
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 375": {
+        "Minute": [
+            12,
+            5,
+            62,
+            59,
+            28
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 376": {
+        "Minute": [
+            90,
+            76,
+            65
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 377": {
+        "Minute": [
+            54
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 378": {
+        "Minute": [
+            44,
+            90,
+            55,
+            20
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 379": {
+        "Minute": [
+            88,
+            48
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 380": {
+        "Minute": [
+            87,
+            69,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 381": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 382": {
+        "Minute": [
+            87
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 383": {
+        "Minute": [
+            79,
+            52,
+            19
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 384": {
+        "Minute": [
+            15,
+            8
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 385": {
+        "Minute": [
+            41,
+            82,
+            16
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 386": {
+        "Minute": [
+            86,
+            67,
+            42
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 387": {
+        "Minute": [
+            65,
+            1
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 388": {
+        "Minute": [
+            78,
+            60,
+            10,
+            71
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 389": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 390": {
+        "Minute": [
+            16,
+            86,
+            58
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 391": {
+        "Minute": [
+            86
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 392": {
+        "Minute": [
+            53,
+            20,
+            8
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 393": {
+        "Minute": [
+            74,
+            53
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 394": {
+        "Minute": [
+            48,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 395": {
+        "Minute": [
+            90,
+            904
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 396": {
+        "Minute": [
+            76
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 397": {
+        "Minute": [
+            53,
+            43,
+            904
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 398": {
+        "Minute": [
+            9,
+            23
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 399": {
+        "Minute": [
+            60,
+            49,
+            13
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 400": {
+        "Minute": [
+            42,
+            19,
+            49
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 401": {
+        "Minute": [
+            48,
+            903
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 402": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 403": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 404": {
+        "Minute": [
+            42
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 405": {
+        "Minute": [
+            902,
+            89,
+            68,
+            62,
+            61,
+            21,
+            78,
+            48
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 406": {
+        "Minute": [
+            11,
+            74,
+            57,
+            47
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 407": {
+        "Minute": [
+            903,
+            87,
+            65
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 408": {
+        "Minute": [
+            903,
+            76
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 409": {
+        "Minute": [
+            84,
+            31,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 410": {
+        "Minute": [
+            78,
+            12,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 411": {
+        "Minute": [
+            47,
+            28
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 412": {
+        "Minute": [
+            53
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 413": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 414": {
+        "Minute": [
+            29,
+            68
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 415": {
+        "Minute": [
+            21,
+            64
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 416": {
+        "Minute": [
+            65,
+            54,
+            49
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 417": {
+        "Minute": [
+            68,
+            905
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 418": {
+        "Minute": [
+            76
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 419": {
+        "Minute": [
+            903,
+            68,
+            62,
+            50,
+            26
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 420": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 421": {
+        "Minute": [
+            61,
+            27,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 422": {
+        "Minute": [
+            72,
+            83
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 423": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 424": {
+        "Minute": [
+            82,
+            71,
+            62,
+            58,
+            44,
+            20,
+            69,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 425": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 426": {
+        "Minute": [
+            90,
+            73,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 427": {
+        "Minute": [
+            75,
+            68
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 428": {
+        "Minute": [
+            50,
+            23,
+            84,
+            64,
+            59,
+            12
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 429": {
+        "Minute": [
+            34,
+            53
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 430": {
+        "Minute": [
+            32,
+            73
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 431": {
+        "Minute": [
+            77,
+            64,
+            51
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 432": {
+        "Minute": [
+            78,
+            66,
+            48,
+            29,
+            83,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 433": {
+        "Minute": [
+            77,
+            55,
+            9
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 434": {
+        "Minute": [
+            3
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 435": {
+        "Minute": [
+            902,
+            48,
+            451
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 436": {
+        "Minute": [
+            901,
+            67
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 437": {
+        "Minute": [
+            88,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 438": {
+        "Minute": [
+            83
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 439": {
+        "Minute": [
+            901,
+            67,
+            89
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 440": {
+        "Minute": [
+            53,
+            13,
+            6
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 441": {
+        "Minute": [
+            57,
+            27,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 442": {
+        "Minute": [
+            903,
+            4,
+            61,
+            27
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 443": {
+        "Minute": [
+            76,
+            68,
+            59,
+            57
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 444": {
+        "Minute": [
+            5
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 445": {
+        "Minute": [
+            19
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 446": {
+        "Minute": [
+            36,
+            72,
+            60,
+            44
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 447": {
+        "Minute": [
+            76,
+            18
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 448": {
+        "Minute": [
+            902,
+            451,
+            51
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 449": {
+        "Minute": [
+            72,
+            57,
+            50,
+            22
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 450": {
+        "Minute": [
+            2
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 451": {
+        "Minute": [
+            30,
+            88,
+            77,
+            66,
+            22
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 452": {
+        "Minute": [
+            87,
+            68,
+            48,
+            37
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 453": {
+        "Minute": [
+            87,
+            78,
+            88,
+            36
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 454": {
+        "Minute": [
+            901,
+            71,
+            65,
+            21
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 455": {
+        "Minute": [
+            29,
+            4,
+            22
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 456": {
+        "Minute": [
+            451,
+            38,
+            10,
+            88
+        ],
+        "Period": [
+            "First half - Additional time",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 457": {
+        "Minute": [
+            81,
+            63,
+            51,
+            37,
+            38
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 458": {
+        "Minute": [
+            63,
+            61,
+            29,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 459": {
+        "Minute": [
+            85
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 460": {
+        "Minute": [
+            30,
+            25,
+            5
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 461": {
+        "Minute": [
+            72,
+            56,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 462": {
+        "Minute": [
+            62,
+            52,
+            36,
+            22,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 463": {
+        "Minute": [
+            83,
+            29
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 464": {
+        "Minute": [
+            77,
+            52,
+            18,
+            90,
+            34
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 465": {
+        "Minute": [
+            90,
+            7,
+            80
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 466": {
+        "Minute": [
+            29,
+            19,
+            901,
+            78,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half - Additional time",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 467": {
+        "Minute": [
+            79,
+            59,
+            56,
+            7
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 468": {
+        "Minute": [
+            32,
+            42,
+            34
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 469": {
+        "Minute": [
+            901,
+            64,
+            61,
+            37,
+            25
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 470": {
+        "Minute": [
+            62,
+            65,
+            56,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 471": {
+        "Minute": [
+            89,
+            78,
+            65,
+            33,
+            69,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 472": {
+        "Minute": [
+            85,
+            78,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 473": {
+        "Minute": [
+            45,
+            81,
+            71
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 474": {
+        "Minute": [
+            901,
+            17
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 475": {
+        "Minute": [
+            83,
+            54,
+            31
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 476": {
+        "Minute": [
+            57,
+            51
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 477": {
+        "Minute": [
+            10
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 478": {
+        "Minute": [
+            903,
+            83,
+            65
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 479": {
+        "Minute": [
+            87,
+            67,
+            29
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 480": {
+        "Minute": [
+            62
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 481": {
+        "Minute": [
+            75,
+            24,
+            22,
+            64,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 482": {
+        "Minute": [
+            14,
+            87,
+            4
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 483": {
+        "Minute": [
+            903,
+            73
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 484": {
+        "Minute": [
+            55
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 485": {
+        "Minute": [
+            80,
+            64,
+            40,
+            58
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 486": {
+        "Minute": [
+            28,
+            23
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 487": {
+        "Minute": [
+            82,
+            45,
+            25,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 488": {
+        "Minute": [
+            903,
+            51,
+            48,
+            44,
+            35
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 489": {
+        "Minute": [
+            37,
+            14
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 490": {
+        "Minute": [
+            86,
+            82
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 491": {
+        "Minute": [
+            75,
+            69,
+            55,
+            22
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 492": {
+        "Minute": [
+            51
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 493": {
+        "Minute": [
+            83,
+            45,
+            40,
+            30
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 494": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 495": {
+        "Minute": [
+            72,
+            58,
+            48,
+            44,
+            40,
+            7,
+            88
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 496": {
+        "Minute": [
+            79,
+            70,
+            59,
+            22,
+            88,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 497": {
+        "Minute": [
+            87,
+            65
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 498": {
+        "Minute": [
+            84,
+            901,
+            81,
+            66,
+            63,
+            54,
+            33
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 499": {
+        "Minute": [
+            14,
+            54
+        ],
+        "Period": [
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 500": {
+        "Minute": [
+            30,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 501": {
+        "Minute": [
+            25,
+            86,
+            73,
+            68,
+            19
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 502": {
+        "Minute": [
+            68,
+            41,
+            4
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 503": {
+        "Minute": [
+            58,
+            53,
+            48
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 504": {
+        "Minute": [
+            85,
+            78,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 505": {
+        "Minute": [
+            45,
+            81,
+            71
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 506": {
+        "Minute": [
+            903,
+            83,
+            65
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 507": {
+        "Minute": [
+            87,
+            67,
+            29
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 508": {
+        "Minute": [
+            55
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 509": {
+        "Minute": [
+            80,
+            64,
+            40,
+            58
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 510": {
+        "Minute": [
+            86,
+            82
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 511": {
+        "Minute": [
+            75,
+            69,
+            55,
+            22
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 512": {
+        "Minute": [
+            54
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 513": {
+        "Minute": [
+            44,
+            90,
+            55,
+            20
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 514": {
+        "Minute": [
+            79,
+            52,
+            19
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 515": {
+        "Minute": [
+            15,
+            8
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 516": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 517": {
+        "Minute": [
+            16,
+            86,
+            58
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 518": {
+        "Minute": [
+            90,
+            904
+        ],
+        "Period": [
+            "Second half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 519": {
+        "Minute": [
+            76
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 520": {
+        "Minute": [
+            76,
+            18
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 521": {
+        "Minute": [
+            902,
+            451,
+            51
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 522": {
+        "Minute": [
+            87,
+            78,
+            88,
+            36
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 523": {
+        "Minute": [
+            901,
+            71,
+            65,
+            21
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 524": {
+        "Minute": [
+            30,
+            25,
+            5
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 525": {
+        "Minute": [
+            72,
+            56,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 526": {
+        "Minute": [
+            29,
+            19,
+            901,
+            78,
+            4
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half - Additional time",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 527": {
+        "Minute": [
+            79,
+            59,
+            56,
+            7
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 528": {
+        "Minute": [
+            88,
+            48
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 529": {
+        "Minute": [
+            87,
+            69,
+            5
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 530": {
+        "Minute": [
+            41,
+            82,
+            16
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 531": {
+        "Minute": [
+            86,
+            67,
+            42
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 532": {
+        "Minute": [
+            86
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 533": {
+        "Minute": [
+            53,
+            20,
+            8
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 534": {
+        "Minute": [
+            53,
+            43,
+            904
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 535": {
+        "Minute": [
+            9,
+            23
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 536": {
+        "Minute": [
+            72,
+            57,
+            50,
+            22
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 537": {
+        "Minute": [
+            2
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 538": {
+        "Minute": [
+            29,
+            4,
+            22
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 539": {
+        "Minute": [
+            451,
+            38,
+            10,
+            88
+        ],
+        "Period": [
+            "First half - Additional time",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 540": {
+        "Minute": [
+            62,
+            52,
+            36,
+            22,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 541": {
+        "Minute": [
+            83,
+            29
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 542": {
+        "Minute": [
+            32,
+            42,
+            34
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 543": {
+        "Minute": [
+            901,
+            64,
+            61,
+            37,
+            25
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 544": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 545": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 546": {
+        "Minute": [
+            65,
+            42,
+            60,
+            52
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 547": {
+        "Minute": [
+            6
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 548": {
+        "Minute": [
+            70,
+            68
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 549": {
+        "Minute": [
+            13
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 550": {
+        "Minute": [
+            902,
+            51,
+            30,
+            20,
+            3,
+            71,
+            451
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half - Additional time"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 551": {
+        "Minute": [
+            65
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 552": {
+        "Minute": [
+            901,
+            17
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 553": {
+        "Minute": [
+            83,
+            54,
+            31
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 554": {
+        "Minute": [
+            62
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 555": {
+        "Minute": [
+            75,
+            24,
+            22,
+            64,
+            10
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 556": {
+        "Minute": [
+            28,
+            23
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 557": {
+        "Minute": [
+            82,
+            45,
+            25,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 558": {
+        "Minute": [
+            51
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 559": {
+        "Minute": [
+            83,
+            45,
+            40,
+            30
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 560": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 561": {
+        "Minute": [
+            87
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 562": {
+        "Minute": [
+            65,
+            1
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 563": {
+        "Minute": [
+            78,
+            60,
+            10,
+            71
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 564": {
+        "Minute": [
+            74,
+            53
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 565": {
+        "Minute": [
+            48,
+            11
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 566": {
+        "Minute": [
+            60,
+            49,
+            13
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 567": {
+        "Minute": [
+            42,
+            19,
+            49
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 568": {
+        "Minute": [
+            30,
+            88,
+            77,
+            66,
+            22
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 569": {
+        "Minute": [
+            87,
+            68,
+            48,
+            37
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 570": {
+        "Minute": [
+            81,
+            63,
+            51,
+            37,
+            38
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 571": {
+        "Minute": [
+            63,
+            61,
+            29,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 572": {
+        "Minute": [
+            77,
+            52,
+            18,
+            90,
+            34
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 573": {
+        "Minute": [
+            90,
+            7,
+            80
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 574": {
+        "Minute": [
+            62,
+            65,
+            56,
+            17
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 575": {
+        "Minute": [
+            89,
+            78,
+            65,
+            33,
+            69,
+            43
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 576": {
+        "Minute": [
+            67
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 577": {
+        "Minute": [
+            49
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 578": {
+        "Minute": [
+            48,
+            25
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 579": {
+        "Minute": [
+            58,
+            45,
+            37
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 580": {
+        "Minute": [
+            905,
+            58,
+            33,
+            39
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 581": {
+        "Minute": [
+            12,
+            5,
+            62,
+            59,
+            28
+        ],
+        "Period": [
+            "First half",
+            "First half",
+            "Second half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 582": {
+        "Minute": [
+            90,
+            76,
+            65
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 583": {
+        "Minute": [
+            85
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 584": {
+        "Minute": [
+            57,
+            51
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 585": {
+        "Minute": [
+            10
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 586": {
+        "Minute": [
+            14,
+            87,
+            4
+        ],
+        "Period": [
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 587": {
+        "Minute": [
+            903,
+            73
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 588": {
+        "Minute": [
+            903,
+            51,
+            48,
+            44,
+            35
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 589": {
+        "Minute": [
+            37,
+            14
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 590": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 591": {
+        "Minute": [
+            72,
+            58,
+            48,
+            44,
+            40,
+            7,
+            88
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 592": {
+        "Minute": [
+            90,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 593": {
+        "Minute": [
+            88,
+            42,
+            39,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Away",
+            "Away",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 594": {
+        "Minute": [
+            88,
+            54
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 595": {
+        "Minute": [
+            83
+        ],
+        "Period": [
+            "Second half"
+        ],
+        "Team": [
+            "Away"
+        ]
+    },
+    "S1314 - 596": {
+        "Minute": [
+            55,
+            57
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 597": {
+        "Minute": [
+            85,
+            71,
+            40,
+            3,
+            27
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "First half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 598": {
+        "Minute": [
+            901,
+            67,
+            89
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 599": {
+        "Minute": [
+            53,
+            13,
+            6
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 600": {
+        "Minute": [
+            71,
+            56
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 601": {
+        "Minute": [
+            58,
+            67
+        ],
+        "Period": [
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 602": {
+        "Minute": [
+            57,
+            27,
+            3
+        ],
+        "Period": [
+            "Second half",
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 603": {
+        "Minute": [
+            903,
+            4,
+            61,
+            27
+        ],
+        "Period": [
+            "Second half - Additional time",
+            "First half",
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Away",
+            "Away"
+        ]
+    },
+    "S1314 - 604": {
+        "Minute": [
+            87,
+            32
+        ],
+        "Period": [
+            "Second half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 605": {
+        "Minute": [
+            37,
+            24
+        ],
+        "Period": [
+            "First half",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home"
+        ]
+    },
+    "S1314 - 606": {
+        "Minute": [
+            76,
+            68,
+            59,
+            57
+        ],
+        "Period": [
+            "Second half",
+            "Second half",
+            "Second half",
+            "Second half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    },
+    "S1314 - 607": {
+        "Minute": [
+            5
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 608": {
+        "Minute": [],
+        "Period": [],
+        "Team": []
+    },
+    "S1314 - 609": {
+        "Minute": [
+            19
+        ],
+        "Period": [
+            "First half"
+        ],
+        "Team": [
+            "Home"
+        ]
+    },
+    "S1314 - 610": {
+        "Minute": [
+            120,
+            118,
+            110,
+            903,
+            36
+        ],
+        "Period": [
+            "Extra time - Second half",
+            "Extra time - Second half",
+            "Extra time - Second half",
+            "Second half - Additional time",
+            "First half"
+        ],
+        "Team": [
+            "Home",
+            "Home",
+            "Home",
+            "Home",
+            "Away"
+        ]
+    }
+}
