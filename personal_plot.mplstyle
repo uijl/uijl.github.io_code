@@ -1,0 +1,42 @@
+#Author: Joris den Uijl
+# See https:uijl.github.io
+
+lines.linewidth: 4
+lines.solid_capstyle: butt
+
+legend.fancybox: true
+
+#axes.prop_cycle: cycler('color', ['c6dbef', '9ecae1', '6baed6', '4292c6', '2171b5', '08519c', '08306b', '12245e'])
+axes.prop_cycle: cycler('color', ['12245e', '08519c', '2171b5', '4292c6', '6baed6', '9ecae1', 'c6dbef'])
+
+axes.facecolor: fbfbfb 
+axes.labelsize: large
+axes.axisbelow: true
+axes.grid: true
+axes.edgecolor: fbfbfb 
+axes.linewidth: 3.0
+axes.titlesize: x-large
+
+patch.edgecolor: fbfbfb 
+patch.linewidth: 0.5
+
+svg.fonttype: path
+
+grid.linestyle: -
+grid.linewidth: 1.0
+grid.color: cbcbcb
+
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
+
+font.size:14.0
+
+savefig.edgecolor: fbfbfb 
+savefig.facecolor: fbfbfb 
+
+figure.subplot.left: 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+figure.facecolor: fbfbfb 
